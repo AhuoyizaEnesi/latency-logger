@@ -4,7 +4,7 @@ A simple command-line tool to measure and log the network latency (in millisecon
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Measure HTTP latency for a given URL
 - Display formatted results in the terminal using [Rich](https://github.com/Textualize/rich)
@@ -14,7 +14,7 @@ A simple command-line tool to measure and log the network latency (in millisecon
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3
 - `requests` – for HTTP requests
@@ -24,7 +24,7 @@ A simple command-line tool to measure and log the network latency (in millisecon
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install requirements
 
